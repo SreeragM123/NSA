@@ -1,0 +1,3 @@
+echo "Enter the filename:"
+read f
+replace "python" "linux" -- $f

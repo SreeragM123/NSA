@@ -1,0 +1,6 @@
+echo Number of words
+wc -w abc.txt
+echo Number of lines
+wc -l abc.txt
+echo Number of charaters
+wc -m abc.txt
